@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=HwanUk,%20Song&fontSize=90)
 
-## ＊Introduce
+### ＊Introduce
 - Personal Info
   - Name : 송환욱(HwanUk, Song)
   - Gender : Male

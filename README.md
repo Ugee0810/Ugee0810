@@ -48,6 +48,8 @@
 <summary><b>Open</b></summary>
 
 - 교양 과목
+  - [마크다운 사용법](https://blog.naver.com/hunii123/222440191093)
+  - [[Github] 깃허브 프로필의 리드미 꾸미기](https://onlyfor-me-blog.tistory.com/328)
   - [다홍치마](https://carbon.now.sh/)
   - [simpleicons](https://simpleicons.org/)
   - [[Youtube - 이민석 작가]한국에서 소프트웨어 엔지니어로 성공하는 법](https://youtu.be/mKGhBtQI1iA)
@@ -59,24 +61,22 @@
 - 기술 관련
   - [[pikurate]무료 개발 강의](https://www.pikurate.com/pik/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EA%B0%9C%EB%B0%9C-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C?category=C%EC%96%B8%EC%96%B4)
   - [[Youtube - 얄팍한 코딩사전]제대로 파는 HTML & CSS 강좌 - 웹개발 퍼블리싱 끝장내기](https://youtu.be/TrC2x4N0XqY)
+  
+- 유용한 사이트
+  - [mixamo 사이트, 사용법](https://www.mixamo.com/#/)
+    - 모델링을 fbx에 올린다.
+    - ![image](https://user-images.githubusercontent.com/85896566/180706129-236d653f-6e4f-4878-a9f4-d22af4f4fafb.png)
+    - Without Skin으로 설정 후 다운로드
+  - [메타버스 개발자 경진대회](https://www.metaversedev.kr/)
+  - [한국 컨텐츠 진흥원](https://www.kocca.kr/kocca/main.do)
+    - 연초에 모집 공고에 지원할 것, 수상 시 커리어에 영향이 높다.
+  - [유즈넷]()
+  - [메일링 리스트]()
+  - [오리지널 위키]()
   - [생활코딩](https://opentutorials.org/course/1)
   - [부스트코스(boostcourse)](https://www.boostcourse.org/opencourse)
   - [edwith(에드위드)](https://www.edwith.org)
   - [WikiDocs](https://wikidocs.net)
-  - [유즈넷]()
-  - [메일링 리스트]()
-  - [오리지널 위키]()
-</div>
-</details>
 
-
-### 수정 기록
-<details>
-<summary><b>History</b></summary>
-
-22-06-28 17:14 | 리포지트리 생성 및 인적사항, 기술스택, 공부 할 내용 정리<br/>
-22-06-28 17:16 | 기술스택 XCode추가<br/>
-22-06-28 13:12 | 교양 과목 2개 추가 :: 로그 파일 읽기, 스택트레이스, 예외 처리의 중요성, config의 중요성(보안)<br/>
-22-07-26 22:23 | 리드미, 깃허브 꾸미기
 </div>
 </details>

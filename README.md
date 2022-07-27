@@ -20,7 +20,7 @@
     - olgaphila40@gmail.com
 
 
-### <p align="center">Technical Stack</p>
+### <p align="center">:bulb:Technical Stack:bulb:</p>
 <p align="center">
 <img src="https://img.shields.io/badge/C-7F52FF?style=flat-square&logo=C&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=000000"/>
@@ -33,7 +33,7 @@
 </p>
 
   
-### <p align="center">Will Be Learn to Technical Stack</p>
+### <p align="center">:notebook:Will Be Learn to Technical Stack:notebook:</p>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>

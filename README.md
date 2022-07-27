@@ -9,7 +9,7 @@
   - Country : Republic of Korea
   - a Command of a Language
     - Korean(Native)
-    - Japanese(JLPT N1/2022.1) : High
+    - Japanese(High, "JLPT N1 | 2022.1")
 - Level of Education
   - University : Changwon Campus of Korea Polytechnic Ⅶ
   - Major : SmartFactory

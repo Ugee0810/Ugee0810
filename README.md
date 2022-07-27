@@ -19,7 +19,7 @@
     - shu990810@naver.com
     - olgaphila40@gmail.com
 
-
+* * *
 ### <p align="center">:bulb:Technical Stack:bulb:</p>
 <p align="center">
 <img src="https://img.shields.io/badge/C-7F52FF?style=flat-square&logo=C&logoColor=FFFFFF"/>
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=FFFFFF"/>
 </p>
 
-  
+* * *
 ### <p align="center">:notebook:Will Be Learn to Technical Stack:notebook:</p>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>

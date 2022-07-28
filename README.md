@@ -67,6 +67,8 @@
   - [[Youtube - 얄팍한 코딩사전]제대로 파는 HTML & CSS 강좌 - 웹개발 퍼블리싱 끝장내기](https://youtu.be/TrC2x4N0XqY)
   
 - 유용한 사이트
+  - [구글 클라우드 플랫폼]()https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjb-cf81pr5AhUIrpYKHYD4B0MYABABGgJ0bA&ohost=www.google.com&cid=CAESbOD2-SDuCUisJDQaYDxWDKVWbKFgrtEygUoRlVLfA1v_gnW55tY24f8H2giWSPCeOpaJR-d6lBb7CjphdBbfJoKTLI3uBnEjuuVJLcqwZGs_YSz8QqEdQtv4x3jKN8dpJJfsQvQ3YKOQ2xjngA&sig=AOD64_16VYh82D5GwLzfNE2cdgVvWQ19bQ&q&adurl&ved=2ahUKEwiQy7_81pr5AhUSpVYBHVpTBeAQ0Qx6BAgFEAE
+  - [네이버 클라우드 플랫폼](https://www.ncloud.com/)
   - [Unity Learn](https://learn.unity.com/)
   - [mixamo 사이트, 사용법](https://www.mixamo.com/#/)
     - 모델링을 fbx에 올린다.

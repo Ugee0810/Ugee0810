@@ -69,6 +69,7 @@
 - 유용한 사이트
   - [구글 클라우드 플랫폼]()https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjb-cf81pr5AhUIrpYKHYD4B0MYABABGgJ0bA&ohost=www.google.com&cid=CAESbOD2-SDuCUisJDQaYDxWDKVWbKFgrtEygUoRlVLfA1v_gnW55tY24f8H2giWSPCeOpaJR-d6lBb7CjphdBbfJoKTLI3uBnEjuuVJLcqwZGs_YSz8QqEdQtv4x3jKN8dpJJfsQvQ3YKOQ2xjngA&sig=AOD64_16VYh82D5GwLzfNE2cdgVvWQ19bQ&q&adurl&ved=2ahUKEwiQy7_81pr5AhUSpVYBHVpTBeAQ0Qx6BAgFEAE
   - [네이버 클라우드 플랫폼](https://www.ncloud.com/)
+  - [네이버 클라우드](https://aws.amazon.com/ko/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=categories%23compute&trk=84ad1b7a-e8a4-4edd-bc74-15704bf999e7&sc_channel=ps&s_kwcid=AL!4422!3!588924203277!e!!g!!aws%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C&ef_id=Cj0KCQjwxIOXBhCrARIsAL1QFCZFHWHsKyutCJRaH4EN0n3QPv6g94MGlwcBLMDBDmhVU173c3U1mkMaAmjkEALw_wcB:G:s&s_kwcid=AL!4422!3!588924203277!e!!g!!aws%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C)
   - [Unity Learn](https://learn.unity.com/)
   - [mixamo 사이트, 사용법](https://www.mixamo.com/#/)
     - 모델링을 fbx에 올린다.

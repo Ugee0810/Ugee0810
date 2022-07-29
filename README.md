@@ -72,6 +72,10 @@
     - [네이버 클라우드 플랫폼](https://www.ncloud.com/)
     - [AWS 클라우드](https://aws.amazon.com/ko/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=categories%23compute&trk=84ad1b7a-e8a4-4edd-bc74-15704bf999e7&sc_channel=ps&s_kwcid=AL!4422!3!588924203277!e!!g!!aws%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C&ef_id=Cj0KCQjwxIOXBhCrARIsAL1QFCZFHWHsKyutCJRaH4EN0n3QPv6g94MGlwcBLMDBDmhVU173c3U1mkMaAmjkEALw_wcB:G:s&s_kwcid=AL!4422!3!588924203277!e!!g!!aws%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C)
   - [Unity Learn](https://learn.unity.com/)
+  - 3D 모델링 사이트
+    - [turbosquid](https://www.turbosquid.com/ko/fbx-models)
+    - [cgtrader](https://www.cgtrader.com/free-3d-models)
+    - [myminifactory](https://www.myminifactory.com/)
   - [mixamo 사이트, 사용법](https://www.mixamo.com/#/)
     - 모델링을 fbx에 올린다.
     - ![image](https://user-images.githubusercontent.com/85896566/180706129-236d653f-6e4f-4878-a9f4-d22af4f4fafb.png)

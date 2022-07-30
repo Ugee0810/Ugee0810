@@ -66,12 +66,12 @@
   
   
 - 강의 사이트
-  - ALL
-    - [네이버 부스트코스(boostcourse)](https://www.boostcourse.org/opencourse)
-    - [[pikurate]무료 개발 강의](https://www.pikurate.com/pik/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EA%B0%9C%EB%B0%9C-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C?category=C%EC%96%B8%EC%96%B4)
-    - [생활코딩](https://opentutorials.org/course/1)
-    - [edwith(에드위드)](https://www.edwith.org)
+  - ALL(*Massive Online Open Course)
+    - [[Naver]boostcourse](https://www.boostcourse.org/opencourse)
+    - [[Naver]edwith](https://www.edwith.org)
     - [WikiDocs](https://wikidocs.net)
+    - [생활코딩](https://opentutorials.org/course/1)
+    - [[pikurate]무료 개발 강의 모음](https://www.pikurate.com/pik/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EA%B0%9C%EB%B0%9C-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C?category=C%EC%96%B8%EC%96%B4)
   - Theme
     - [[Unity]Unity Learn](https://learn.unity.com/)
     - [[Github ReadMe]MarkDown 문법](https://blog.naver.com/hunii123/222440191093)

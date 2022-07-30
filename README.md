@@ -51,28 +51,33 @@
 <details>
 <summary><b>Open</b></summary>
 
-- [22-06-27: [okky.kr]어떻게 공부할까? 프로그래머를 위한 공부론](https://okky.kr/article/398880)
-- [22-06-27: 유니티, 증강현실 앱개발 런칭기(iOS, Android)](https://brunch.co.kr/@chickenmoim/18)
-- [22-06-29: 아무도 가르쳐 주지 않는 것](https://velog.io/@mowinckel/%EC%95%84%EB%AC%B4%EB%8F%84-%EA%B0%80%EB%A5%B4%EC%B3%90-%EC%A3%BC%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%83)
-- [22-06-29: [okky.kr]초보 개발자를 위한 스택트레이스 읽는 법](https://okky.kr/article/338405)
-- [[Youtube - 이민석 작가]한국에서 소프트웨어 엔지니어로 성공하는 법](https://youtu.be/mKGhBtQI1iA)
-
-- [[okky.kr]면접에서 들었던 & 했던 질문들](https://okky.kr/article/1255457)
-- [마크다운 사용법](https://blog.naver.com/hunii123/222440191093)
-- [[Github] 깃허브 프로필의 리드미 꾸미기](https://onlyfor-me-blog.tistory.com/328)
-- [carbon](https://carbon.now.sh/)
-- [simpleicons](https://simpleicons.org/)
-- [[pikurate]무료 개발 강의](https://www.pikurate.com/pik/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EA%B0%9C%EB%B0%9C-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C?category=C%EC%96%B8%EC%96%B4)
-- [[Youtube - 얄팍한 코딩사전]제대로 파는 HTML & CSS 강좌 - 웹개발 퍼블리싱 끝장내기](https://youtu.be/TrC2x4N0XqY)
-- [생활코딩](https://opentutorials.org/course/1)
-- [부스트코스(boostcourse)](https://www.boostcourse.org/opencourse)
-- [edwith(에드위드)](https://www.edwith.org)
-- [WikiDocs](https://wikidocs.net)
+- 이론 & 교양
+  - [22-06-27: [okky.kr]어떻게 공부할까? 프로그래머를 위한 공부론](https://okky.kr/article/398880)
+  - [22-06-27: 유니티, 증강현실 앱개발 런칭기(iOS, Android)](https://brunch.co.kr/@chickenmoim/18)
+  - [22-06-29: 아무도 가르쳐 주지 않는 것](https://velog.io/@mowinckel/%EC%95%84%EB%AC%B4%EB%8F%84-%EA%B0%80%EB%A5%B4%EC%B3%90-%EC%A3%BC%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B2%83)
+  - [22-06-29: [okky.kr]초보 개발자를 위한 스택트레이스 읽는 법](https://okky.kr/article/338405)
+  - [[Youtube - 이민석 작가]한국에서 소프트웨어 엔지니어로 성공하는 법](https://youtu.be/mKGhBtQI1iA)
+  - [[okky.kr]면접에서 들었던 & 했던 질문들](https://okky.kr/article/1255457)
   
   
 - 커리어 & 대회
   - [메타버스 개발자 경진대회](https://www.metaversedev.kr/)
   - [한국 컨텐츠 진흥원](https://www.kocca.kr/kocca/main.do)
+  
+  
+- 강의 사이트
+  - ALL
+    - [네이버 부스트코스(boostcourse)](https://www.boostcourse.org/opencourse)
+    - [[pikurate]무료 개발 강의](https://www.pikurate.com/pik/%EB%B0%B0%EC%9B%8C%EC%84%9C-%EB%82%A8-%EC%A3%BC%EB%8A%94-%EB%AC%B4%EB%A3%8C-%EA%B0%9C%EB%B0%9C-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C?category=C%EC%96%B8%EC%96%B4)
+    - [생활코딩](https://opentutorials.org/course/1)
+    - [edwith(에드위드)](https://www.edwith.org)
+    - [WikiDocs](https://wikidocs.net)
+  - Theme
+    - [[Unity]Unity Learn](https://learn.unity.com/)
+    - [[Github ReadMe]MarkDown 문법](https://blog.naver.com/hunii123/222440191093)
+    - [[Github ReadMe]Profile Banner, Badge](https://onlyfor-me-blog.tistory.com/328)
+    - [[HTML5, CSS][Youtube - 얄팍한 코딩사전]제대로 파는 HTML & CSS 강좌 - 웹개발 퍼블리싱 끝장내기](https://youtu.be/TrC2x4N0XqY)
+  
     
 - Cloud Storage & API
   - [Firebase](https://firebase.google.com/?hl=ko)
@@ -81,16 +86,16 @@
   - [Amazon AWS](https://aws.amazon.com/ko/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=categories%23compute&trk=84ad1b7a-e8a4-4edd-bc74-15704bf999e7&sc_channel=ps&s_kwcid=AL!4422!3!588924203277!e!!g!!aws%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C&ef_id=Cj0KCQjwxIOXBhCrARIsAL1QFCZFHWHsKyutCJRaH4EN0n3QPv6g94MGlwcBLMDBDmhVU173c3U1mkMaAmjkEALw_wcB:G:s&s_kwcid=AL!4422!3!588924203277!e!!g!!aws%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C)
   - [PhotonEngine](https://www.photonengine.com/ko-KR/)
 
-    
 - Modeling & Animations
   - [turbosquid](https://www.turbosquid.com/ko/fbx-models)
   - [cgtrader](https://www.cgtrader.com/free-3d-models)
   - [myminifactory](https://www.myminifactory.com/)
   - [mixamo](https://www.mixamo.com/#/)
-    
-    
-- Unity
-  - [Unity Learn](https://learn.unity.com/)
-    
+
+- 他
+  - [carbon](https://carbon.now.sh/)
+  - [simpleicons](https://simpleicons.org/)
+  
+  
 </div>
 </details>

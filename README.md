@@ -66,7 +66,7 @@
   
   
 - 강의 사이트
-  - ALL(*Massive Online Open Course)
+  - ALL(+ Massive Online Open Course)
     - [[Naver]boostcourse](https://www.boostcourse.org/opencourse)
     - [[Naver]edwith](https://www.edwith.org)
     - [WikiDocs](https://wikidocs.net)

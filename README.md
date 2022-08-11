@@ -4,7 +4,7 @@
 - Personal Info
   - Name : 송환욱(HwanUk, Song)
   - Gender : Male
-  - Birth : 1999.08.10(22)
+  - Birth : 1999.08.10(23)
   - MBTI : INTJ-A
   - Country : Republic of Korea
   - a Command of a Language
@@ -14,7 +14,6 @@
   - University : Changwon Campus of Korea Polytechnic Ⅶ
   - Major : SmartFactory
 - Contact
-  - HP : +82 10-2714-6100
   - E-Mail
     - shu990810@naver.com
     - olgaphila40@gmail.com

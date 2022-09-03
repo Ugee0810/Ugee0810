@@ -28,15 +28,32 @@ Contact
 
 <p align="center">
 Language & Engine
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/C＃-000000?style=flat-square&logo=Csharp&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
+</p>
+
+<p align="center">
 IDE
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/Visual Studio-000000?style=flat-square&logo=Visual Studio&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/>
+</p>
+
+<p align="center">
 VCS & DB
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=MongoDB&logoColor=FFFFFF"/>
+</p>
+
+<p align="center">
 Other
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-000000?style=flat-square&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
 </p>
 

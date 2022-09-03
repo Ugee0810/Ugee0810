@@ -19,28 +19,34 @@ Contact
 - E-Mail
   - shu990810@naver.com
   - olgaphila40@gmail.com
-- Kakao ID
+- Kakao
   - shuj987
 
 ---
 
 # Technical Stack
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=000000"/>
-<img src="https://img.shields.io/badge/C-7F52FF?style=flat-square&logo=C&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C＃-000000?style=flat-square&logo=Csharp&logoColor=FFFFFF"/>
+
+### IDE
+<img src="https://img.shields.io/badge/Visual Studio-000000?style=flat-square&logo=Visual Studio&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-000000?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/>
+
+### VCS & DB
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=MariaDB&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-000000?style=flat-square&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
 
 ---
 
 # Will Be Learn to Technical Stack
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>

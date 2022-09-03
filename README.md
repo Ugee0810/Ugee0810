@@ -24,30 +24,25 @@ Contact
 
 ---
 
-# Technical Stack
+# ※ Technical Stack
 
 <p align="center">
-
-### Language & Engine
+Language & Engine
 <img src="https://img.shields.io/badge/C＃-000000?style=flat-square&logo=Csharp&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
-
-### IDE
+IDE
 <img src="https://img.shields.io/badge/Visual Studio-000000?style=flat-square&logo=Visual Studio&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/>
-
-### VCS & DB
+VCS & DB
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=MongoDB&logoColor=FFFFFF"/>
-
-### Other
+Other
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-000000?style=flat-square&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
-
 </p>
 
 ---
 
-# Will Be Learn to Technical Stack
+# ※ Will Be Learn to Technical Stack
 ### Language & Engine
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=C++&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=FFFFFF"/>
@@ -72,7 +67,7 @@ Contact
 
 ---
 
-# URL 모음
+# ※ URL 모음
 <details>
 <summary><b>Open</b></summary>
 

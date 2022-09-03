@@ -22,10 +22,11 @@ Contact
 - Kakao
   - shuj987
 
+<br>
+
 ---
 
 # ※ Technical Stack
-
 <p align="center">
 Language & Engine
 </p>
@@ -57,12 +58,12 @@ Other
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-000000?style=flat-square&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
 </p>
 
+<br>
+
 ---
 
 # ※ Will Be Learn to Technical Stack
-
 <p align="center">
-
 Language & Engine
 </p>
 <p align="center">
@@ -97,6 +98,8 @@ VCS & DB
 <p align="center">
 Other
 </p>
+
+<br>
 
 ---
 
@@ -147,7 +150,6 @@ Other
 - [behance](https://www.behance.net/)
 - [carbon](https://carbon.now.sh/)
 - [simpleicons](https://simpleicons.org/)
-  
   
 </div>
 </details>

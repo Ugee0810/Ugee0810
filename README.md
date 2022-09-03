@@ -25,6 +25,9 @@ Contact
 ---
 
 # Technical Stack
+
+<p align="center">
+
 ### Language & Engine
 <img src="https://img.shields.io/badge/C＃-000000?style=flat-square&logo=Csharp&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
@@ -35,16 +38,18 @@ Contact
 
 ### VCS & DB
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=MariaDB&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=MongoDB&logoColor=FFFFFF"/>
 
 ### Other
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-000000?style=flat-square&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
+
+</p>
 
 ---
 
 # Will Be Learn to Technical Stack
 ### Language & Engine
+<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=C++&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/>
@@ -59,6 +64,8 @@ Contact
 <img src="https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=Xcode&logoColor=FFFFFF"/>
 
 ### VCS & DB
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=MariaDB&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=Oracle&logoColor=FFFFFF"/>
 
 ### Other

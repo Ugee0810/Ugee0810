@@ -60,7 +60,12 @@ Other
 ---
 
 # ※ Will Be Learn to Technical Stack
-### Language & Engine
+
+<p align="center">
+
+Language & Engine
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=C++&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=FFFFFF"/>
@@ -70,17 +75,28 @@ Other
 <img src="https://img.shields.io/badge/jQuery-000000?style=flat-square&logo=jQuery&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
+</p>
 
-### IDE
+<p align="center">
+IDE
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/Android Studio-000000?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=Xcode&logoColor=FFFFFF"/>
+</p>
 
-### VCS & DB
+<p align="center">
+VCS & DB
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=MariaDB&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=Oracle&logoColor=FFFFFF"/>
+</p>
 
-### Other
+<p align="center">
+Other
+</p>
 
 ---
 

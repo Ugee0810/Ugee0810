@@ -25,8 +25,9 @@ Contact
 ---
 
 # Technical Stack
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
+### Language & Engine
 <img src="https://img.shields.io/badge/C＃-000000?style=flat-square&logo=Csharp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
 
 ### IDE
 <img src="https://img.shields.io/badge/Visual Studio-000000?style=flat-square&logo=Visual Studio&logoColor=FFFFFF"/>
@@ -37,22 +38,30 @@ Contact
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=MariaDB&logoColor=FFFFFF"/>
 
+### Other
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-000000?style=flat-square&logo=Adobe Premiere Pro&logoColor=FFFFFF"/>
 
 ---
 
 # Will Be Learn to Technical Stack
+### Language & Engine
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/jQuery-000000?style=flat-square&logo=jQuery&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF"/>
+### IDE
+<img src="https://img.shields.io/badge/Android Studio-000000?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=Xcode&logoColor=FFFFFF"/>
+
+### VCS & DB
+<img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=Oracle&logoColor=FFFFFF"/>
+
+### Other
 
 ---
 

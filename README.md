@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUgee99%2Fhit-counter&count_bg=%23969696&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUgee99%2Fhit-counter&count_bg=%23626262&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Ugee99&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > # ※ Personal Info
 > Name : 송환욱(Song HwanUk)

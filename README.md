@@ -34,7 +34,7 @@
 <br>
 
 > # ※ JOB
-> [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=shu990810)](https://solved.ac/anojds)
+> [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=shu990810)](https://solved.ac/shu990810)
 
 <br>
 <br>

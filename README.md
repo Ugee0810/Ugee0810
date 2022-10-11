@@ -139,6 +139,12 @@
 - [behance](https://www.behance.net/)
 - [carbon](https://carbon.now.sh/)
 - [simpleicons](https://simpleicons.org/)
-  
+
+
+⚪️
+🟡
+🟢
+🔵
+
 </div>
 </details>

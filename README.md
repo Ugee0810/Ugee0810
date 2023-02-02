@@ -1,15 +1,12 @@
-# ※ Personal Info
-Name : 송환욱(Song HwanUk)
+※ Personal Info
+- 송환욱(Song HwanUk)
+- 99.08.10(23)
 
-Birth : 1999.08.10(23)
-
-Gender : Male
-
-Command of a Language
+※ Command of a Language
 - Korean[Native]
 - Japanese[High], JLPT N1(2022.1)
 
-Contact
+※ Contact
 - E-Mail
   - husong@maxst.com
   - shu990810@naver.com

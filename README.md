@@ -1,6 +1,6 @@
 ※ Personal Info
 - 송환욱(Song HwanUk)
-- 99.08.10(23)
+- 99.08.10(24)
 
 ※ Command of a Language
 - Korean[Native]

@@ -3,6 +3,7 @@
 - 99.08.10(24)
 
 ※ Command of a Language
+
 - Korean[Native]
 - Japanese[High], JLPT N1(2022.1)
 

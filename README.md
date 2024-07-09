@@ -15,8 +15,10 @@
 - Blog
   - [Instagram](https://www.instagram.com/uk.2___/)
   - [Linkedin](https://www.linkedin.com/in/hwanuk-song-6781092b0/)
-  - KR([Tistory](https://sugar0810.tistory.com/))
-  - JP([Qiita](https://qiita.com/sugar0810))
+  - [Medium](https://medium.com/@olgaphila40)
+  - [Note](https://note.com/ugee/)
+  - KR([Tistory](https://sugar0810.tistory.com/) ~ 24.07.09)
+  - JP([Qiita](https://qiita.com/sugar0810) ~ 24.07.09)
 
 ※ Command of a Language
 - Korean[Native]

@@ -1,7 +1,3 @@
-※ Personal Info
-- 송환욱(Song HwanUk)
-- 99.08.10(24)
-
 ※ Contact
 - E-Mail
   - husong@maxst.com

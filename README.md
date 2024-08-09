@@ -10,7 +10,7 @@
 <br>
 
 ## 🔹Contact
-olgaphila40@gmail.com | husong@maxst.com | [Linkdin](https://www.linkedin.com/in/hwanuk-song-6781092b0/) | [Instagram](https://www.instagram.com/uk.2___/)
+olgaphila40@gmail.com | [Linkdin](https://www.linkedin.com/in/hwanuk-song-6781092b0/) | [Instagram](https://www.instagram.com/uk.2___/)
 
 <br>
 
@@ -28,6 +28,6 @@ Research Engineer : Solution Business Department Development Team (Client - Unit
 <br>
 
 ## 🔹Languages and Tools
-| C# | Unity |
-|---|---|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="55" height="55"/> |
+| C# | Unity | Jira | Bitbucket | Confluence | Figma | Slack |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> |

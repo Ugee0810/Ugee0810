@@ -15,7 +15,7 @@ olgaphila40@gmail.com | [Linkdin](https://www.linkedin.com/in/hwanuk-song-678109
 <br>
 
 ## 🔹Blog
-[Medium(EN)](https://medium.com/@olgaphila40) | [Note(JP)](https://note.com/ugee/) | [Tistory](https://sugar0810.tistory.com/) ~ 24.07.09 | [Qiita](https://qiita.com/sugar0810) ~ 24.07.09)
+[Medium(EN)](https://medium.com/@olgaphila40) | [Note(JP)](https://note.com/ugee/) | [Tistory](https://sugar0810.tistory.com/) ~ 24.07.09 | [Qiita](https://qiita.com/sugar0810) ~ 24.07.09
 
 <br>
 

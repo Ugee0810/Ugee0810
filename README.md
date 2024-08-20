@@ -10,7 +10,7 @@
 <br>
 
 ## 🔹Contact
-olgaphila40@gmail.com | [Linkdin](https://www.linkedin.com/in/hwanuk-song-6781092b0/) | [Instagram](https://www.instagram.com/uk.2___/)
+olgaphila40@gmail.com | [Linkdin](https://www.linkedin.com/in/hwanuk-song-6781092b0/) | [Instagram](https://www.instagram.com/ra._15ux/)
 
 <br>
 

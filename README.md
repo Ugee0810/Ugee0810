@@ -20,7 +20,7 @@ olgaphila40@gmail.com | [Linkdin](https://www.linkedin.com/in/hwanuk-song-678109
 <br>
 
 ## 🔹Experience
-### 23.01.02 ~ 24.09.30[MAXST](https://maxst.com/)
+### 23.01.02 ~ 24.09.30 [MAXST](https://maxst.com/)
 Research Engineer : Solution Business Department Development Team (Client - Unity)
 - Industrial AR Solution(AR Inspection, AR Remote)
 - Korean Ministry of Trade, Industry and Energy(MOTIE) Project (w.KAIST)

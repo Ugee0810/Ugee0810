@@ -63,6 +63,3 @@ Research Engineer : Solution Business Department Development Team (Client - Unit
 | Jenkins |
 |:---:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> |
-
-// ### Collaboration & Productivity Tools
-// ||

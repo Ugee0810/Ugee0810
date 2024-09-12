@@ -26,8 +26,11 @@
 ## 🔻 Experience
 ### 📄 [MAXST](https://maxst.com/)
 Solution Business Department Development Team(Client - Unity) | 23.01.02 ~ 24.09.30
-- Industrial AR Solution(AR Inspection, AR Remote)
-- Korean Ministry of Trade, Industry and Energy(MOTIE) Project (w.KAIST)
+- MAXWORK(Industrial AR Solution)
+  - 1:N AR Remote Support
+  - AR Manual Creation Tool
+  - AR Manual Viewer
+  - Digital Twin Solution - Korean Ministry of Trade, Industry and Energy(MOTIE) Project (w/KAIST)‬
 
 ## 🔻 Skills & Expertise
 ### 📄 Languages

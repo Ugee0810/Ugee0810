@@ -32,6 +32,9 @@ Solution Business Department Development Team(Client - Unity) | 23.01.02 ~ 24.09
   - AR Manual Viewer
   - Digital Twin Solution - Korean Ministry of Trade, Industry and Energy(MOTIE) Project (w/KAIST)‬
 
+### 📄 [Livetoon](https://livetoon.net/)
+Client - Unity | 24.10.01 ~
+
 ## 🔻 Skills & Expertise
 ### 📄 Languages
 | C# | C++ | Python |

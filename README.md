@@ -3,7 +3,7 @@
 </p>
 
 ## 🔻 Personal Info
-송환욱(Song HwanUk) | 1999.08.10
+송환욱(Song Hwanuk) | 1999.08.10
 
 ### 📄 Languages
 - Korean (Native)

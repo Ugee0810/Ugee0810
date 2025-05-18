@@ -55,4 +55,3 @@ Client - Unity | 24.10.01 ~
 | Jira | Bitbucket | Confluence | Figma | Slack |
 |:---:|:---:|:---:|:---:|:---:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> |
-

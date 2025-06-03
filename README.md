@@ -51,6 +51,7 @@ Client - Unity | 24.10.01 ~
 |:---:|:---:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> |
 
+
 ### 📄 Collaboration & Productivity Tools
 | Jira | Bitbucket | Confluence | Figma | Slack |
 |:---:|:---:|:---:|:---:|:---:|

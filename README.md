@@ -26,14 +26,9 @@
 ## 🔻 Experience
 ### 📄 [MAXST](https://maxst.com/)
 Solution Business Department Development Team(Client - Unity) | 23.01.02 ~ 24.09.30
-- MAXWORK(Industrial AR Solution)
-  - 1:N AR Remote Support
-  - AR Manual Creation Tool
-  - AR Manual Viewer
-  - Digital Twin Solution - Korean Ministry of Trade, Industry and Energy(MOTIE) Project (w/KAIST)‬
 
 ### 📄 [Livetoon](https://livetoon.net/)
-Client - Unity | 24.10.01 ~
+Client - Unity | 24.10.01 ~ 25.10.31
 
 ## 🔻 Skills & Expertise
 ### 📄 Languages

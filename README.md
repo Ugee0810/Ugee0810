@@ -28,27 +28,3 @@ Solution Business Department Development Team(Client - Unity) | 23.01.02 ~ 24.09
 
 ### 📄 [Livetoon](https://livetoon.net/)
 Client - Unity | 24.10.01 ~ 25.10.31
-
-## 🔻 Skills & Expertise
-### 📄 Languages
-| C# | C++ | Python |
-|:---:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> |
-
-### 📄 Frameworks & Platforms
-| Unity | UE5 | Babylon.js | Discord.py |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UE5" alt="UE5" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Babylon_logo_v4.svg" title="Babylon.js" alt="Babylon.js" width="55" height="55"/> | <img src="https://i.imgur.com/RPrw70n.png" title="Discord.py" alt="Discord.py" width="55" height="55"/> |
-
-### 📄 DevOps & Automation Tools
-| Netlify | Jenkins |
-|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> |
-
-
-### 📄 Collaboration & Productivity Tools
-| Jira | Bitbucket | Confluence | Figma | Slack |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> |
-
-

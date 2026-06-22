@@ -21,10 +21,3 @@
 [![Note](https://img.shields.io/badge/Note(jp)-FFFFFF?style=for-the-badge&logo=Note&logoColor=white)](https://note.com/ugee/)
 [![Tistory](https://img.shields.io/badge/tistory(kr)-f1631b?style=for-the-badge&logo=tistory&logoColor=white)](https://sugar0810.tistory.com/)
 [![Qiita](https://img.shields.io/badge/qiita(jp)-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/sugar0810)
-
-## 🔻 Experience
-### 📄 [MAXST](https://maxst.com/)
-Solution Business Department Development Team(Client - Unity) | 23.01.02 ~ 24.09.30
-
-### 📄 [Livetoon](https://livetoon.net/)
-Client - Unity | 24.10.01 ~ 25.10.31

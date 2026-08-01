@@ -4,16 +4,9 @@
 
 ## 🔻 Personal Info
 
-### 📄 Languages
-- Korean (Native)
-- Japanese (Advanced)
-  - JLPT N1 (2022.01)
-- English (Intermediate)
-
 ### 📄 Contact
 [![Gmail](https://img.shields.io/badge/olgaphila40@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olgaphila40@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hwanuk-song-6781092b0/)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ra._15ux/)
 
 ### 📄 Blog
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ugee0810)
